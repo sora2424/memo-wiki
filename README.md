@@ -48,7 +48,7 @@ HTMLファイル1つをブラウザで開くだけで動く、チーム向けの
 
 ## 解説記事
 
-- Qiita：（記事のURL）
+- Qiita：https://qiita.com/sora2424/items/5e5333d8695805b68437
 
 ## ライセンス
 
